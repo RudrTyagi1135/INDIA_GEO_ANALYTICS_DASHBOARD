@@ -33,7 +33,7 @@ This project highlights the following **analytics and system design skills**:
 ## 📂 Project Structure
 
 ```
-INDIA-GEO-ANALYTICS-DASHBOARD/
+INDIA_GEO_ANALYTICS_DASHBOARD/
 │
 ├── app.py              # Main Streamlit application
 ├── india.csv           # District-level dataset
