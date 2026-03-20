@@ -6,6 +6,14 @@ This project demonstrates **geospatial analytics**, **data-driven UI design**, a
 
 ---
 
+## 🚀 Live Demo
+
+👉 **Access the deployed application here:**
+
+🔗 https://5rpddrbaj8fkn4rjgezpyg.streamlit.app/
+
+---
+
 ## 🚀 Features
 
 - 🌍 **Interactive geospatial visualization (Mapbox-based)**
@@ -65,7 +73,7 @@ Visualization Layer (Plotly Mapbox)
 Streamlit Application (app.py)
         │
         ▼
-Interactive Dashboard (Browser)
+Interactive Dashboard (Browser / Deployed App)
 ```
 
 ### Design Principles
@@ -132,7 +140,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running the Application
+## ▶️ Running the Application (Local)
 
 ```bash
 streamlit run app.py
@@ -149,8 +157,8 @@ Future enhancements could include:
 - Add **time-series slider for temporal analysis**
 - Implement **ML models (clustering, anomaly detection)**
 - Add **backend API for data ingestion**
-- Deploy on **AWS / Streamlit Cloud**
-- Use **Mapbox token for advanced styling**
+- Enhance UI with **Mapbox token styling**
+- Improve scalability with **cloud architecture (AWS + S3)**
 
 ---
 
@@ -174,7 +182,7 @@ This project helped build understanding of:
 - **Interactive dashboard development**
 - **Multi-dimensional data encoding**
 - **User-driven analytics systems**
-- **Foundation for ML-integrated dashboards**
+- **Deploying data applications to production (Streamlit Cloud)**
 
 ---
 
